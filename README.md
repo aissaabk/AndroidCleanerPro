@@ -46,7 +46,7 @@ Click the image below to watch the full demonstration:
   - Serial number
 
 
-![Device Detection](./Screenshots/device.png)
+![Device Detection](./Screenshots/main.png)
 
 
 
@@ -60,7 +60,7 @@ Analyze installed applications:
 - Selection system
 
 
-![Applications](./Screenshots/apps.png)
+![Applications](./Screenshots/load_apps.png)
 
 
 
@@ -73,10 +73,20 @@ Remove unwanted applications directly:
 - Execute ADB uninstall command
 
 
-![Uninstall](./Screenshots/uninstall.png)
+![Uninstall](./Screenshots/uninstall001.png)
+![Uninstall](./Screenshots/uninstall002.png)
+![Uninstall](./Screenshots/uninstall003.png)
 
 
 
+## 📊 Run App
+
+-Get the application run in frontend devices
+
+![current app](./Screenshots/current_app.png)
+![current app](./Screenshots/current_app2.png)
+
+![Dashboard](./Screenshots/dashboard.png)
 ## 📊 Dashboard
 
 Real-time statistics:
