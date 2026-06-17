@@ -28,7 +28,7 @@ The application provides a professional interface for:
 
 Click the image below to watch the full demonstration:
 
-[![Android Cleaner Pro Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Android Cleaner Pro Demo](https://youtu.be/e6fipeaA3TA))
 
 
 ---
