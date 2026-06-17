@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "qvVoL1Mblqg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev\\AndroidCleanerPro\\AndroidCleanerPro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\materialdesigncolors\\5.3.3-ci1394\\materialdesigncolors.5.3.3-ci1394.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\materialdesignthemes\\5.3.3-ci1394\\materialdesignthemes.5.3.3-ci1394.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.1\\microsoft.aspnetcore.authorization.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.1\\microsoft.aspnetcore.components.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\9.0.1\\microsoft.aspnetcore.components.analyzers.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\9.0.1\\microsoft.aspnetcore.components.forms.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.aspnetcore.components.web\\9.0.1\\microsoft.aspnetcore.components.web.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.aspnetcore.metadata\\9.0.1\\microsoft.aspnetcore.metadata.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.extensions.localization\\9.0.1\\microsoft.extensions.localization.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\9.0.1\\microsoft.extensions.localization.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.1\\microsoft.extensions.logging.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.extensions.options\\9.0.1\\microsoft.extensions.options.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.jsinterop\\9.0.1\\microsoft.jsinterop.9.0.1.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.10\\microsoft.net.illink.tasks.9.0.10.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\mudblazor\\9.0.0\\mudblazor.9.0.0.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\mudblazor.thememanager\\4.0.0\\mudblazor.thememanager.4.0.0.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.10\\microsoft.netcore.app.runtime.win-x64.9.0.10.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.10.nupkg.sha512",
+    "C:\\Users\\dev\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.10\\microsoft.aspnetcore.app.runtime.win-x64.9.0.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'LiveCharts 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\dev\\AndroidCleanerPro\\AndroidCleanerPro.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\dev\\AndroidCleanerPro\\AndroidCleanerPro.csproj",
+      "libraryId": "LiveCharts",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'LiveCharts.Wpf 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\dev\\AndroidCleanerPro\\AndroidCleanerPro.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\dev\\AndroidCleanerPro\\AndroidCleanerPro.csproj",
+      "libraryId": "LiveCharts.Wpf",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
+}

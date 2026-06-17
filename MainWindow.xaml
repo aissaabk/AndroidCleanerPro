@@ -1,0 +1,231 @@
+﻿<Window x:Class="AndroidCleanerPro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Android Cleaner Pro - Suite"
+        Height="780"
+        Width="1150"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="10">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <!-- 6 ✔ -->
+        </Grid.RowDefinitions>
+
+        <!-- 📊 DASHBOARD -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+
+            <Border Background="LightGray" Padding="10" Margin="5">
+                <StackPanel>
+                    <TextBlock Text="Total Apps"/>
+                    <TextBlock Text="{Binding Stats.TotalApps}"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="LightCoral" Padding="10" Margin="5">
+                <StackPanel>
+                    <TextBlock Text="High Risk"/>
+                    <TextBlock Text="{Binding Stats.HighRiskApps}"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="Khaki" Padding="10" Margin="5">
+                <StackPanel>
+                    <TextBlock Text="Medium Risk"/>
+                    <TextBlock Text="{Binding Stats.MediumRiskApps}"/>
+                </StackPanel>
+            </Border>
+
+            <Border Background="LightGreen" Padding="10" Margin="5">
+                <StackPanel>
+                    <TextBlock Text="Low Risk"/>
+                    <TextBlock Text="{Binding Stats.LowRiskApps}"/>
+                </StackPanel>
+            </Border>
+
+        </StackPanel>
+
+        <!-- 📱 DEVICE INFO -->
+        <StackPanel Grid.Row="1">
+
+            <TextBlock x:Name="DeviceText"
+                       FontSize="16"
+                       FontWeight="Bold"
+                       Margin="5"/>
+
+            <TextBlock x:Name="CurrentAppText"
+                       FontSize="14"
+                       Foreground="Red"
+                       Margin="5"
+                       Text="Current App: ---"/>
+
+        </StackPanel>
+
+        <!-- 🔘 MAIN ACTIONS -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+
+            <Button Content="Detect Device"
+                    Width="130"
+                    Margin="5"
+                    Click="DetectDevice_Click"/>
+            <ComboBox x:Name="DevicesCombo"
+                        Width="300"
+                        Margin="5"
+                        DisplayMemberPath="Display"/>
+            <Button Content="Load Apps"
+                    Width="130"
+                    Margin="5"
+                    Click="LoadApps_Click"/>
+
+            <Button Content="Current App"
+                    Width="130"
+                    Margin="5"
+                    Click="CurrentApp_Click"/>
+
+            <Button Content="Scan Ads"
+                    Width="130"
+                    Margin="5"
+                    Background="Orange"
+                    Click="ScanAds_Click"/>
+
+        </StackPanel>
+
+        <!-- 📦 ADS + EXPORT -->
+        <StackPanel Grid.Row="3" Orientation="Horizontal">
+            <Button Content="Uninstall"
+        Width="130"
+        Margin="5"
+        Background="Crimson"
+        Foreground="White"
+        Click="Uninstall_Click"/>
+            <Button Content="Backup Ads"
+                    Width="130"
+                    Margin="5"
+                    Click="BackupAds_Click"/>
+
+            <Button Content="Disable Ads"
+                    Width="130"
+                    Margin="5"
+                    Background="DarkRed"
+                    Foreground="White"
+                    Click="DisableAds_Click"/>
+
+            <Button Content="Export TXT"
+                    Width="130"
+                    Margin="5"
+                    Click="ExportTxt_Click"/>
+
+            <Button Content="Export JSON"
+                    Width="130"
+                    Margin="5"
+                    Click="ExportJson_Click"/>
+
+        </StackPanel>
+
+        <!-- 📱 APPS GRID -->
+        <DataGrid Grid.Row="4"
+                  x:Name="AppsGrid"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  Margin="5">
+
+            <DataGrid.Columns>
+
+                <DataGridCheckBoxColumn Header="Select"
+                                        Binding="{Binding IsSelected}"
+                                        Width="60"/>
+
+                <DataGridTextColumn Header="Package"
+                                    Binding="{Binding PackageName}"
+                                    Width="*"/>
+
+                <DataGridTextColumn Header="Risk"
+                                    Binding="{Binding RiskLevel}"
+                                    Width="120"/>
+                <DataGridTextColumn Header="Install Date"
+                    Binding="{Binding InstallDateText}"
+                    Width="180"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+        <!-- 🧩 PLUGINS SECTION -->
+        <GroupBox Header="Plugins / Tools"
+                  Grid.Row="5"
+                  Margin="5">
+
+            <StackPanel Orientation="Horizontal">
+
+                <Button Content="Reboot Device"
+                        Width="150"
+                        Margin="5"
+                        Background="DodgerBlue"
+                        Foreground="White"
+                        Click="Reboot_Click"/>
+
+                <Button Content="Fastboot Mode"
+                        Width="150"
+                        Margin="5"
+                        Background="Purple"
+                        Foreground="White"
+                        Click="Fastboot_Click"/>
+
+                <Button Content="Refresh Apps"
+                        Width="150"
+                        Margin="5"
+                        Click="LoadApps_Click"/>
+
+                <Button Content="Dark Mode"
+                        Width="120"
+                        Margin="5"
+                        Click="DarkMode_Click"/>
+
+  
+            </StackPanel>
+
+        </GroupBox>
+        <!-- 🧩  site  / social media -->
+        <GroupBox Header="site  / social media"
+                  Grid.Row="6"
+                  Margin="5">
+
+            <StackPanel Orientation="Horizontal">
+
+      
+         <Button Content="Facebook"
+        Width="150"
+        Margin="5"
+        Background="Blue"
+        Foreground="White"
+        Click="OpenFacebook_Click"/>
+
+                <Button Content="YouTube"
+        Width="150"
+        Margin="5"
+        Background="Red"
+        Foreground="White"
+        Click="OpenYouTube_Click"/>
+                <Button Content="Github"
+        Width="150"
+        Margin="5"
+        Background="Red"
+        Foreground="White"
+        Click="github_Click"/>
+                <Button Content="site web"
+        Width="150"
+        Margin="5"
+        Background="Red"
+        Foreground="White"
+        Click="dzlearn_Click"/>
+            </StackPanel>
+
+        </GroupBox>
+    </Grid>
+</Window>

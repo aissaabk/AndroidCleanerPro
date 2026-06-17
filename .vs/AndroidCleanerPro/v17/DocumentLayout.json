@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\AndroidCleanerPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\viewmodels\\deviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:viewmodels\\deviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\services\\adbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:services\\adbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\services\\uninstallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:services\\uninstallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\models\\appinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:models\\appinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\viewmodels\\adscannerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:viewmodels\\adscannerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\services\\appscannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:services\\appscannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\viewmodels\\appsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:viewmodels\\appsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\models\\dashboardstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:models\\dashboardstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\models\\statsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:models\\statsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\models\\addetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:models\\addetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\models\\androidapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:models\\androidapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\services\\scannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:services\\scannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|c:\\users\\dev\\androidcleanerpro\\services\\adlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6711CAA4-B91E-180A-2B8A-2048304A5A08}|AndroidCleanerPro.csproj|solutionrelative:services\\adlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 246,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACABAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T12:50:24.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Models\\AppInfo.cs",
+              "RelativeDocumentMoniker": "Models\\AppInfo.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Models\\AppInfo.cs",
+              "RelativeToolTip": "Models\\AppInfo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T12:54:01.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T12:50:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\ViewModels\\DeviceViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DeviceViewModel.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\ViewModels\\DeviceViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DeviceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T15:39:22.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdbService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\AdbService.cs",
+              "RelativeDocumentMoniker": "Services\\AdbService.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\AdbService.cs",
+              "RelativeToolTip": "Services\\AdbService.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAEwBoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T13:35:53.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T14:21:26.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UninstallService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\UninstallService.cs",
+              "RelativeDocumentMoniker": "Services\\UninstallService.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\UninstallService.cs",
+              "RelativeToolTip": "Services\\UninstallService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T14:32:46.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAEwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T13:08:41.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdScannerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\ViewModels\\AdScannerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdScannerViewModel.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\ViewModels\\AdScannerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AdScannerViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T12:31:08.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\ViewModels\\AppsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AppsViewModel.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\ViewModels\\AppsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AppsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T14:21:21.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "Services\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\DashboardService.cs",
+              "RelativeToolTip": "Services\\DashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T14:19:52.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppScannerService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\AppScannerService.cs",
+              "RelativeDocumentMoniker": "Services\\AppScannerService.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\AppScannerService.cs",
+              "RelativeToolTip": "Services\\AppScannerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T12:57:38.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardStats.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Models\\DashboardStats.cs",
+              "RelativeDocumentMoniker": "Models\\DashboardStats.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Models\\DashboardStats.cs",
+              "RelativeToolTip": "Models\\DashboardStats.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAF0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T13:10:51.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatsModel.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Models\\StatsModel.cs",
+              "RelativeDocumentMoniker": "Models\\StatsModel.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Models\\StatsModel.cs",
+              "RelativeToolTip": "Models\\StatsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T13:23:29.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdDetection.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Models\\AdDetection.cs",
+              "RelativeDocumentMoniker": "Models\\AdDetection.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Models\\AdDetection.cs",
+              "RelativeToolTip": "Models\\AdDetection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T13:15:21.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AndroidApp.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Models\\AndroidApp.cs",
+              "RelativeDocumentMoniker": "Models\\AndroidApp.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Models\\AndroidApp.cs",
+              "RelativeToolTip": "Models\\AndroidApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T13:11:30.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScannerService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\ScannerService.cs",
+              "RelativeDocumentMoniker": "Services\\ScannerService.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\ScannerService.cs",
+              "RelativeToolTip": "Services\\ScannerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T12:57:15.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdLogService.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\AdLogService.cs",
+              "RelativeDocumentMoniker": "Services\\AdLogService.cs",
+              "ToolTip": "C:\\Users\\dev\\AndroidCleanerPro\\Services\\AdLogService.cs",
+              "RelativeToolTip": "Services\\AdLogService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T12:49:52.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
